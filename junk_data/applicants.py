@@ -51,4 +51,4 @@ applicants = [
     {"id": 50, "profile": "Python, Flask, Django, Web Development, Backend Development, SQLAlchemy, PostgreSQL, MySQL, REST API, GraphQL, JavaScript, HTML, CSS, DevOps, Docker, Kubernetes, AWS, Continuous Integration, Git"}
 ]
 
-   
+       
